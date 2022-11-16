@@ -95,7 +95,10 @@ public class AllConfig {
                 "河南省新乡市牧野区",//这个人的详细地址
                 "新乡",//这个人在的城市
                 
-                new BirthDay(2001,6,21,true,false,"pt生日快乐！！")
+                new BirthDay(2001,6,21,true,false,"pt生日快乐！！"),
+                new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
+                new BirthDay(2020,7,8,true,true),
+                new BirthDay(2020,7,8,true,false,"周年快乐！！！")
               
         ));
 
