@@ -91,7 +91,7 @@ public class AllConfig {
         userList.add(getUser(
                 "oeSBO5hqMScqg4KIMs2n1Fym4T8o", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "dHQGUsbsWmsR_6biBgRXo66cZOOHuYuiyQn7QGd3MjA", //要给这个人发送的模板ID
-                "大帅逼你好啊",//咋称呼这个人
+                "高云辉大帅逼",//咋称呼这个人
                 "河南省新乡市牧野区",//这个人的详细地址
                 "新乡",//这个人在的城市
                 
