@@ -93,9 +93,9 @@ public class AllConfig {
                 "dHQGUsbsWmsR_6biBgRXo66cZOOHuYuiyQn7QGd3MjA", //要给这个人发送的模板ID
                 "大帅逼你好啊",//咋称呼这个人
                 "河南省新乡市牧野区",//这个人的详细地址
-                "心想",//这个人在的城市
+                "新乡",//这个人在的城市
                 
-                new BirthDay(2001,6,21,true,false,"pt生日快乐！！"),
+                new BirthDay(2001,6,21,true,false,"pt生日快乐！！")
               
         ));
 
